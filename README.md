@@ -1,4 +1,4 @@
 # PdfViewer
 
-##UI OF PDFVIEWER CODE...
+Just a Demo App for reading PDF files.
 
