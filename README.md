@@ -1,4 +1,4 @@
 # PdfViewer
 
-Just a Demo App for reading PDF files.
+Just an example of Android App for reading PDF files.
 
